@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inetrash.github.io/inetrash.txt.gz
+Sitemap: https://inetrash.github.io/app/inetrash.txt.gz
+Sitemap: https://inetrash.github.io/assets/inetrash.txt.gz
+Sitemap: https://inetrash.github.io/css/inetrash.txt.gz
+Sitemap: https://inetrash.github.io/includes/inetrash.txt.gz
+Sitemap: https://inetrash.github.io/item/inetrash.txt.gz
+Sitemap: https://inetrash.github.io/src/inetrash.txt.gz
